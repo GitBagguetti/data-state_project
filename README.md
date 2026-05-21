@@ -21,7 +21,8 @@ Extraction and construction of tie property characteristics (aid and reasons giv
 
 ## Literature Review
 
-- Fuhse, Jan A. 2009. “The Meaning Structure of Social Networks.” *Sociological Theory* 27 (1): 51–73. https://doi.org/10.1111/j.1467-9558.2009.00338.x. [READ]
-- Gibson, David R. 2005. “Taking Turns and Talking Ties: Networks and Conversational Interaction1.” *American Journal of Sociology* 110 (6): 1561–97. https://doi.org/10.1086/428689. [STILL READING]
-- Padgett, John F., and Christopher K. Ansell. 1993. “Robust Action and the Rise of the Medici, 1400-1434.” *American Journal of Sociology* 98 (6): 1259–319. https://doi.org/10.1086/230190. [TO BE READ]
-- Stuhler, Oscar. 2025. “The Cultural Construction of Personal Relationships.” *Social Networks* 83 (October): 199–214. https://doi.org/10.1016/j.socnet.2025.07.001. [READ]
+- Fuhse, Jan A. 2009. “The Meaning Structure of Social Networks.” *Sociological Theory* 27 (1): 51–73. [https://doi.org/10.1111/j.1467-9558.2009.00338.x](https://doi.org/10.1111/j.1467-9558.2009.00338.x). [READ]
+- Gibson, David R. 2005. “Taking Turns and Talking Ties: Networks and Conversational Interaction1.” *American Journal of Sociology* 110 (6): 1561–97. [https://doi.org/10.1086/428689](https://doi.org/10.1086/428689). [STILL READING]
+- Padgett, John F., and Christopher K. Ansell. 1993. “Robust Action and the Rise of the Medici, 1400-1434.” *American Journal of Sociology* 98 (6): 1259–319. [https://doi.org/10.1086/230190](https://doi.org/10.1086/230190). [TO BE READ]
+- Stuhler, Oscar. 2025. “The Cultural Construction of Personal Relationships.” *Social Networks* 83 (October): 199–214. [https://doi.org/10.1016/j.socnet.2025.07.001](https://doi.org/10.1016/j.socnet.2025.07.001). [READ]
+
