@@ -1,0 +1,8 @@
+plots/louvain_2020s.svg
+plots/louvain_1980s.svg
+plots/louvain_2020s.pdf
+plots/louvain_1980s.pdf
+sample.py
+1_networks.ipynb
+2_edge_quality.ipynb
+99_workshop.ipynb
