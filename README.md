@@ -1,6 +1,6 @@
 # Final Project
 
-Final project literature review, code, outputs, and attendant comments are in ``[3_project_notebook.ipynb](3_project_notebook.ipynb)``
+Final project literature review, code, outputs, and attendant comments are in [``3_project_notebook.ipynb``](../3_project_notebook.ipynb)
 
 ## Literature Review
 
